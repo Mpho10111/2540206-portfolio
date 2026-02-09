@@ -1,1 +1,1 @@
-I learnt how to clone a GitHub repository on my local machine. I learnt how to create a list of things and add a link to those things using placeholders. I worked with a footer tag for the very first time.
+I learnt how to clone a GitHub repository on my local machine. I learnt how to create a list of things and add a link to those things using placeholders. I worked with a footer tag for the very first time. I learnt about branching and merging.
